@@ -1,0 +1,14 @@
+src/react-app/pages/BusinessPage.tsx(2,21): error TS6133: 'Link' is declared but its value is never read.
+src/react-app/pages/BusinessPage.tsx(3,23): error TS6133: 'Home' is declared but its value is never read.
+src/react-app/pages/BusinessPage.tsx(3,29): error TS6133: 'ShoppingCart' is declared but its value is never read.
+src/react-app/pages/BusinessPage.tsx(3,43): error TS6133: 'MessageSquare' is declared but its value is never read.
+src/react-app/pages/BusinessPage.tsx(3,58): error TS6133: 'Info' is declared but its value is never read.
+src/react-app/pages/BusinessPage.tsx(3,64): error TS6133: 'CreditCard' is declared but its value is never read.
+src/react-app/pages/DashboardPage.tsx(4,10): error TS6133: 'Plus' is declared but its value is never read.
+src/react-app/pages/DashboardPage.tsx(4,31): error TS6133: 'ExternalLink' is declared but its value is never read.
+src/react-app/pages/DashboardPage.tsx(4,68): error TS6133: 'Layout' is declared but its value is never read.
+src/react-app/pages/DashboardPage.tsx(4,76): error TS6133: 'ShoppingBag' is declared but its value is never read.
+src/react-app/pages/DashboardPage.tsx(4,89): error TS6133: 'ClipboardList' is declared but its value is never read.
+src/react-app/pages/DashboardPage.tsx(19,25): error TS2307: Cannot find module '../shared/types' or its corresponding type declarations.
+src/react-app/pages/DashboardPage.tsx(36,11): error TS6133: 'services' is declared but its value is never read.
+src/react-app/pages/DashboardPage.tsx(36,33): error TS6133: 'deleteService' is declared but its value is never read.

@@ -1,0 +1,28 @@
+src/react-app/pages/BusinessPage.tsx(2,21): error TS6133: 'Link' is declared but its value is never read.
+src/react-app/pages/BusinessPage.tsx(3,23): error TS6133: 'Home' is declared but its value is never read.
+src/react-app/pages/BusinessPage.tsx(3,29): error TS6133: 'ShoppingCart' is declared but its value is never read.
+src/react-app/pages/BusinessPage.tsx(3,43): error TS6133: 'MessageSquare' is declared but its value is never read.
+src/react-app/pages/BusinessPage.tsx(3,58): error TS6133: 'Info' is declared but its value is never read.
+src/react-app/pages/BusinessPage.tsx(3,64): error TS6133: 'CreditCard' is declared but its value is never read.
+src/react-app/pages/DashboardPage.tsx(4,10): error TS6133: 'Plus' is declared but its value is never read.
+src/react-app/pages/DashboardPage.tsx(4,31): error TS6133: 'ExternalLink' is declared but its value is never read.
+src/react-app/pages/DashboardPage.tsx(4,68): error TS6133: 'Layout' is declared but its value is never read.
+src/react-app/pages/DashboardPage.tsx(4,76): error TS6133: 'ShoppingBag' is declared but its value is never read.
+src/react-app/pages/DashboardPage.tsx(4,89): error TS6133: 'ClipboardList' is declared but its value is never read.
+src/react-app/pages/DashboardPage.tsx(19,25): error TS2307: Cannot find module '../shared/types' or its corresponding type declarations.
+src/react-app/pages/DashboardPage.tsx(36,11): error TS6133: 'services' is declared but its value is never read.
+src/react-app/pages/DashboardPage.tsx(36,33): error TS6133: 'deleteService' is declared but its value is never read.
+src/worker.ts(16,19): error TS2339: Property 'MOCHA_USERS_SERVICE_API_URL' does not exist on type 'Env'.
+src/worker.ts(17,19): error TS2339: Property 'MOCHA_USERS_SERVICE_API_KEY' does not exist on type 'Env'.
+src/worker.ts(31,19): error TS2339: Property 'MOCHA_USERS_SERVICE_API_URL' does not exist on type 'Env'.
+src/worker.ts(32,19): error TS2339: Property 'MOCHA_USERS_SERVICE_API_KEY' does not exist on type 'Env'.
+src/worker.ts(55,21): error TS2339: Property 'MOCHA_USERS_SERVICE_API_URL' does not exist on type 'Env'.
+src/worker.ts(56,21): error TS2339: Property 'MOCHA_USERS_SERVICE_API_KEY' does not exist on type 'Env'.
+src/worker.ts(153,118): error TS18047: 'business' is possibly 'null'.
+src/worker.ts(162,94): error TS18047: 'business' is possibly 'null'.
+src/worker.ts(186,121): error TS18047: 'business' is possibly 'null'.
+src/worker.ts(199,85): error TS18047: 'business' is possibly 'null'.
+src/worker.ts(210,92): error TS18047: 'business' is possibly 'null'.
+src/worker.ts(223,10): error TS18047: 'business' is possibly 'null'.
+src/worker.ts(233,121): error TS18047: 'business' is possibly 'null'.
+src/worker.ts(242,92): error TS18047: 'business' is possibly 'null'.

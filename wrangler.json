@@ -1,0 +1,33 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "019be76d-529c-74b7-85bd-b5b5585ddbec",
+  "main": "./src/worker/index.ts",
+  "compatibility_date": "2025-06-17",
+  "compatibility_flags": [
+    "nodejs_compat"
+  ],
+  "observability": {
+    "enabled": true
+  },
+  "upload_source_maps": true,
+  "assets": {
+    "not_found_handling": "single-page-application"
+  },
+  "vars": {
+    "SUPABASE_URL": "https://uawmqmcrmumavhqaecfl.supabase.co",
+    "SUPABASE_SERVICE_ROLE_KEY": "sb_secret_ai3XCtFUUuvk1eiONPjekQ_19w92MqV"
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "019be76d-529c-74b7-85bd-b5b5585ddbec",
+      "database_id": "019be76d-529c-74b7-85bd-b5b5585ddbec"
+    }
+  ],
+  "r2_buckets": [
+    {
+      "binding": "R2_BUCKET",
+      "bucket_name": "019be76d-529c-74b7-85bd-b5b5585ddbec"
+    }
+  ]
+}
